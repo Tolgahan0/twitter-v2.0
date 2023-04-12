@@ -14,7 +14,7 @@ import {
   query,
 } from "firebase/firestore";
 import { db } from "../../firebase";
-import Comment from "../../components/Comment";
+import Comment from "../../components/comment";
 
 export default function PostPage({ newsResults, randomUsersResults }) {
   const router = useRouter();
@@ -71,7 +71,8 @@ export default function PostPage({ newsResults, randomUsersResults }) {
               {comments.map((comment) => (
                 <Comment
                   key={comment.id}
-                  id={comment.id}
+                  commentId={comment.id}
+                  originalPostId={id}
                   comment={comment.data()}
                 />
               ))}
