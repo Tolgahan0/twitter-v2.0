@@ -13,7 +13,7 @@ export default function Home({ newsResults, randomUsersResults }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="flex min-h-screen max-w-7xl mx-auto">
+      <main className="flex min-h-screen mx-auto">
         {/* Sidebar */}
         <Sidebar />
 
@@ -24,8 +24,8 @@ export default function Home({ newsResults, randomUsersResults }) {
         {/* Widgets */}
 
         <Widgets
-          newsResults={newsResults.articles}
-          randomUsersResults={randomUsersResults.results}
+          newsResults={newsResults?.articles}
+          randomUsersResults={randomUsersResults?.results}
         />
 
         {/* Modal */}
