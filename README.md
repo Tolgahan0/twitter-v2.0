@@ -22,17 +22,10 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![SCR-20230526-gru](https://github.com/Tolgahan0/twitter-v2.0/assets/77614149/88444beb-5acf-4044-bf06-d2041a0a7b16)
+![SCR-20230526-gsc](https://github.com/Tolgahan0/twitter-v2.0/assets/77614149/75d35340-392d-4000-99f5-9820cf681a2e)
+![SCR-20230526-gsi](https://github.com/Tolgahan0/twitter-v2.0/assets/77614149/91eb901b-22c0-4c1d-8f91-b9c380ef9137)
+![SCR-20230526-gxd](https://github.com/Tolgahan0/twitter-v2.0/assets/77614149/e75c9212-b15f-43b6-9761-f27b1e00426f)
+![SCR-20230526-gxw](https://github.com/Tolgahan0/twitter-v2.0/assets/77614149/3ed7a7a5-fcc9-451f-8213-6471c3e781cb)
+![SCR-20230526-gya](https://github.com/Tolgahan0/twitter-v2.0/assets/77614149/5c35781e-4f33-46b2-b802-ebeea683eb35)
+![SCR-20230526-hh8](https://github.com/Tolgahan0/twitter-v2.0/assets/77614149/4778b62a-8d27-4f81-b822-740000bd8ce6)
